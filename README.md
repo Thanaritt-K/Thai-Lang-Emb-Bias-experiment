@@ -1,12 +1,10 @@
-# Examination of Byte Pair Encoding (BPE) for Thai language
+# Examination of Bias in popular Thai language embeddings
 ## Information  
 Thanaritt Kunajak  
 Natural Language Processing  
 Master’s in Theoretical and Applied Linguistics (8037)  
 Universitat Pompeu Fabra  
-Exercise 1
-
-
+Exercise 3
 
 ## 1 Introduction
 
