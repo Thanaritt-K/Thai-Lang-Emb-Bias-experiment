@@ -40,4 +40,4 @@ The result doesn’t show a high enough significant P-value.This result also ech
 
 ## 4 Code
 
-The code to the experiment is available online at: Thai-Lang-Emb-Bias-experiment
+The code to the experiment is available online at: [Thai-Lang-Emb-Bias-experiment](https://github.com/Thanaritt-K/Thai-Lang-Emb-Bias-experiment)
